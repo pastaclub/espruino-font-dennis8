@@ -10,3 +10,6 @@ character width (most characters are narrower to save space on small displays). 
 Espruino's 6x8 Sebasic font. The charset is losely based on ISO 8859-1 (Latin1) however
 symbols such as arrows, music control, home button etc. were added to facilitate development
 of common embedded applications. 
+
+JS code generated using Matt Brailsford's excellent bitmap font converter at
+http://ebfc.mattbrailsford.com
