@@ -13,3 +13,5 @@ of common embedded applications.
 
 JS code generated using Matt Brailsford's excellent bitmap font converter at
 http://ebfc.mattbrailsford.com
+
+![alt tag](https://raw.githubusercontent.com/pastaclub/espruino-font-dennis8/master/Dennis8Demo.jpg)
